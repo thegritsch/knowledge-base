@@ -21,12 +21,14 @@ Organized for clarity, easy retrieval, and long-term evolution.
 - 🌀 [PNSE Dissolution Protocol](03_Spirituality_Healing/PNSE_Dissolution_Protocol.md)  
 - 🌿 [Nervous System Regulation](03_Spirituality_Healing/Nervous_System_Regulation.md)  
 - 🩹 [Trauma Integration](03_Spirituality_Healing/Trauma_Integration.md)  
+- [[Working with assymetrical tension]]
+- [[Releasing and processing stored impulses]]
 
 ### **Relationships**
 - ❤️ [Dating Filters](04_Relationships/Dating_Filters.md)  
 - 🤝 [Connection Practices](04_Relationships/Connection_Practices.md)  
 - 🏘 [Community Map](04_Relationships/Community_Map.md)  
-
+- [[Preparing the Field]]
 ### **Lifestyle & Relocation**
 - 🗺 [Relocation Options](05_Lifestyle_Relocation/Relocation_Options.md)  
 - 🏡 [Housing Strategy](05_Lifestyle_Relocation/Housing_Strategy.md)  

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01_Creativity/Content_Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Content_Strategy"
             }
           }
         ]
@@ -171,11 +171,15 @@
   },
   "active": "77da8b9ce3579d0b",
   "lastOpenFiles": [
-    "05_Lifestyle_Relocation/Environment_Design.md",
     "README.md",
+    "03_Spirituality_Healing/Working with assymetrical tension.md",
+    "03_Spirituality_Healing/Releasing and processing stored impulses.md",
+    "03_Spirituality_Healing/Nervous_System_Regulation.md",
+    "04_Relationships/Preparing the Field.md",
+    "04_Relationships/Dating_Filters.md",
+    "05_Lifestyle_Relocation/Environment_Design.md",
     "05_Lifestyle_Relocation/Relocation_Options.md",
     "05_Lifestyle_Relocation",
-    "04_Relationships/Dating_Filters.md",
     "04_Relationships",
     "03_Spirituality_Healing/PNSE_Dissolution_Protocol.md",
     "03_Spirituality_Healing",
