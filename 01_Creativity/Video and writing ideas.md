@@ -1,0 +1,6 @@
+- Trauma Healing - what really works
+- Why I hate Vienna (as a viennese person)
+- What I learned from 300 first dates
+- How I reverse engineered enlightenment using AI (maybe someday)
+- Failed as a man, never had a girlfriend at 33
+- 
