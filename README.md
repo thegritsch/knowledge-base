@@ -23,7 +23,7 @@ Organized for clarity, easy retrieval, and long-term evolution.
 - 🩹 [Trauma Integration](03_Spirituality_Healing/Trauma_Integration.md)  
 - [[Working with assymetrical tension]]
 - [[Releasing and processing stored impulses]]
-
+- [[Healing Roadmap for Reversing developmental Collapse]]
 ### **Relationships**
 - ❤️ [Dating Filters](04_Relationships/Dating_Filters.md)  
 - 🤝 [Connection Practices](04_Relationships/Connection_Practices.md)  
